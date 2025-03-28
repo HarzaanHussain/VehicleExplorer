@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "VehicleExplorer.Server\\VehicleExplorer.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "vehicleexplorer.client\\vehicleexplorer.client.esproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
